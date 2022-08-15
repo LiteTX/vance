@@ -54,29 +54,9 @@ fisrt_name: {
     type: Number,
     default: 1
   },
-  acticvatedaccount:{
-    type: Boolean,
-    default: false,
-  },
   refaralsbonus:{
     type: String,
     default: '00.00'
-  },
-  address:{
-    type: String,
-    required: false
-  },
-  city:{
-    type: String,
-    required: false
-  },
-  zipcode:{
-    type: String,
-    required: false
-  },
-  idcard:{
-    type: String,
-    required: false
   },
   referalcode:{
     type: String,
